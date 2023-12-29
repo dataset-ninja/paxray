@@ -61,14 +61,14 @@ REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
 CITATION_URL: Optional[str] = None
 AUTHORS: Optional[List[str]] = [
-    "Constantin Seibold1",
+    "Constantin Seibold",
     "Simon Reiss",
     "Saquib Sarfraz",
     "Matthias A. Fink",
     "Victoria Mayer",
     "Jan Sellner",
-    "Moon Sung Kim5",
-    "Klaus H. Maier-Hein4",
+    "Moon Sung Kim",
+    "Klaus H. Maier-Hein",
     "Jens Kleesiek",
     "Rainer Stiefelhagen",
 ]
