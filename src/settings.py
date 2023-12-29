@@ -55,7 +55,10 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = None
 
 # If you have more than the one paper, put the most relatable link as the first element of the list
 # Use dict key to specify name for a button
-PAPER: Optional[Union[str, List[str], Dict[str, str]]] = "https://arxiv.org/abs/2210.03416"
+PAPER: Optional[Union[str, List[str], Dict[str, str]]] = {
+    "Research Paper": "https://arxiv.org/abs/2210.03416",
+    "Supplementary Material": "https://github.com/ConstantinSeibold/constantinseibold.github.io/blob/master/pdfs/0058_Supplementary_Camera_Ready.pdf",
+}
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
