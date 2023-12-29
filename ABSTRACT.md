@@ -1,5 +1,1 @@
-
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+To exploit anatomical structures, the authors presented a sophisticated automatic system for collecting and integrating human body structures from computed tomography data first fine-grained anatomy dataset: **PAXRAY: A Projected dataset for the segmentation of Anatomical structures in X-RAY data**. Their evaluation showed that methods using anatomical information significantly improved the visual support of radiologists' conclusions. Based on high-quality predictions in CT space, the authors displayed 92 individual anatomical marks structures which, including superclasses, lead to a total of 166 labels in both _side_ and _front_ view.
