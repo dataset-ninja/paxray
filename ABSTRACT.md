@@ -2,4 +2,4 @@ The authors of the dataset present a novel pipeline for generating annotations t
 
 To exploit anatomical structures, the authors used a sophisticated automatic system for collecting and integrating human body structures from computed tomography data first fine-grained anatomy dataset: **PAXRAY: A Projected dataset for the segmentation of Anatomical structures in X-RAY data**. Their evaluation showed that methods using anatomical information significantly improved the visual support of radiologists' conclusions. Based on high-quality predictions in CT space, the authors displayed 92 individual anatomical marks structures which, including superclasses, lead to a total of 166 labels in both _side_ and _front_ view. All annotations in both lateral and frontal view are overlapping:
 
-<img src="" alt="image" width="800">
+<img src="https://github.com/dataset-ninja/paxray/assets/120389559/44860a46-4ea4-400b-b041-cc250973b995" alt="image" width="800">
