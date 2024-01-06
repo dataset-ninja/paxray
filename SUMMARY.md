@@ -4,4 +4,6 @@ The dataset consists of 852 images with 161742 labeled objects belonging to 165 
 
 Images in the PAXRAY dataset have pixel-level semantic segmentation annotations. All images are labeled (i.e. with annotations). There are 3 splits in the dataset: *train* (598 images), *test* (180 images), and *val* (74 images). Additionally, every image has following tags: ***im_id*** and ***view*** (frontal or lateral). Explore it in supervisely labeling tool. The dataset was released in 2022 by the GE joint research group.
 
-<img src="https://github.com/dataset-ninja/paxray/raw/main/visualizations/poster.png">
+Here is a visualized example for randomly selected sample classes:
+
+[Dataset classes](https://github.com/dataset-ninja/paxray/raw/main/visualizations/classes_preview.webm)
