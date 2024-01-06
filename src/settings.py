@@ -17,7 +17,7 @@ PROJECT_NAME: str = "PAXRAY"
 PROJECT_NAME_FULL: str = (
     "PAXRAY: A Projected dataset for the segmentation of Anatomical structures in X-RAY data"
 )
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
