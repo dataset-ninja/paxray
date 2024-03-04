@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "PAXRAY"
+PROJECT_NAME: str = "Paxray"
 PROJECT_NAME_FULL: str = (
     "PAXRAY: A Projected dataset for the segmentation of Anatomical structures in X-RAY data"
 )
@@ -45,9 +45,9 @@ GITHUB_URL: str = "https://github.com/dataset-ninja/paxray"
 ##################################
 ### * Optional after uploading ###
 ##################################
-DOWNLOAD_ORIGINAL_URL: Optional[
-    Union[str, dict]
-] = "https://drive.google.com/drive/folders/1rzlsZ0bfByRMBoywOPWZW08GNgIwCU9P?usp=sharing"
+DOWNLOAD_ORIGINAL_URL: Optional[Union[str, dict]] = (
+    "https://drive.google.com/drive/folders/1rzlsZ0bfByRMBoywOPWZW08GNgIwCU9P?usp=sharing"
+)
 # Optional link for downloading original dataset (e.g. "https://some.com/dataset/download")
 
 CLASS2COLOR: Optional[Dict[str, List[str]]] = None
