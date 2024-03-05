@@ -13,7 +13,7 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = "Paxray"
+PROJECT_NAME: str = "PAXRAY"
 PROJECT_NAME_FULL: str = (
     "PAXRAY: A Projected dataset for the segmentation of Anatomical structures in X-RAY data"
 )
