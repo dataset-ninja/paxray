@@ -99,7 +99,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
     "__PRETEXT__": "Additionally, every image has following tags: ***im_id*** and ***view*** (frontal or lateral). Explore it in supervisely labeling tool"
 }
-TAGS: Optional[List[str]] = None
+TAGS: Optional[List[str]] = ['multi-view']
 
 
 SECTION_EXPLORE_CUSTOM_DATASETS: Optional[List[str]] = None
